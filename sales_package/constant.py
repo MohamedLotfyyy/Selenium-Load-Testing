@@ -1,0 +1,1 @@
+page_url = 'http://localhost:8069/web#action=36&model=ir.module.module&view_type=kanban&cids=1&menu_id=5'
